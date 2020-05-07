@@ -8,16 +8,14 @@
     <string name="correct_answer">That\'s correct</string>
     <string name="wrong_answer">That\'s incorrect</string>
 
-    <string name="question_declaration">The (U.S.) Declaration of Independence was Adopted in 1776.</string>
-    <string name="question_constitution">The Supreme law of the land is the Constitution.</string>
-    <string name="question_amendments">The (U.S.) Constitution has 26 Amendments.</string>
-    <string name="question_independence_rights">The two rights in the Declaration of Independence are:
-        \n \t <b>life</b> \n  \t <b>pursuit of happiness</b>.</string>
-    <string name="question_religion">Freedom of religion means:
-        \n \t <b>You can practice any religion, or not practice a religion</b>.</string>
-    <string name="question_government">Journalists is one branch or part of the government.</string>
-    <string name="question_government_feds">Congress does not make federal laws.</string>
-    <string name="question_government_senators">There are one hundred (100) U.S. Senators.</string>
+    <string name="question_first_language">The first purely object oriented programming language developed was Kotlin.</string>
+    <string name="question_oop_invention">Alan Kay invented OOP.</string>
+    <string name="question_class">A class is an instance of an object.</string>
+    <string name="question_additional_feature">The additional features of classes that are not included in structures are the member functions.</string>
+    <string name="question_oop_implementation">OOP can be implemented without using classes in a program.</string>
+    <string name="question_reusability">The inheritance feature of OOP illustrates the code re-usability.</string>
+    <string name="question_multiple_inheritance">Java supports multiple inheritance.</string>
+    <string name="question_oop_rules">According to rules of OOP, object constructors must be used, even for declaration of variables.</string>
     <string name="next_text">next</string>
 
 
