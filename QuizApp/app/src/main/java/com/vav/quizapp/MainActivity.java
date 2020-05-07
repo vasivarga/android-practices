@@ -66,6 +66,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 currenQuestionIndex = (currenQuestionIndex+1) % questionArray.length;
                 updateQuestion();
                 if (currenQuestionIndex==0){
+                    totalPointsText=0;
                     totalPoints.setText("0");
                 }
                 break;
